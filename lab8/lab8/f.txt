@@ -1,0 +1,3 @@
+hello 1 twelve
+2lox 3 pizdec
+gleb huesos 3 3
